@@ -1,2 +1,2 @@
 # Meantime-Tips
-Hello world
+Collaboraters: Fehmi Zengince, Aytekin Alpay
