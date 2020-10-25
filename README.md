@@ -1,3 +1,2 @@
 # Meantime-Tips
-
-Collaboraters: Fehmi Zengince
+Collaboraters: Fehmi Zengince, Aytekin Alpay
